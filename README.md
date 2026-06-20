@@ -40,12 +40,14 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
 
 ## Contatos
 
-<div align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:lsouzaft@gmail.com"><img src="https://shields.io" alt="Gmail"></a>
-</div>
-
-<br />
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lsouzaft@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza;Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation" alt="Typing SVG" />
