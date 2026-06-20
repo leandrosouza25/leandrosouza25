@@ -45,8 +45,10 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
 
 ## Contatos
 
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/leandro-souza-qa)
-[![Gmail](https://shields.io)](lsouzaft@gmail.com)
+<div align="center">
+  [![LinkedIn](https://shields.io)](www.linkedin.com/in/leandro-souza-qa)
+  [![Gmail](https://shields.io)](lsouzaft@gmail.com)
+</div>
 
 
 
