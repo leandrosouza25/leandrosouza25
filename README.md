@@ -36,17 +36,20 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
 
 
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrosouza25&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight)
 
+
+
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/leandro-souza-qa
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/leandro-souza-qa)
 
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](lsouzaft@gmail.com)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza;Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation)]()
 
