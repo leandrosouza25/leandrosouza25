@@ -25,23 +25,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
 ## Sobre Mim
 
 Quality Assurance, com foco em testes manuais, validação de APIs e automação de testes.
 
-Experiência com Cypress, Playwright, Selenium, Javascript, TypeScript, Python, Postman, entre outros, documentação de bugs e metodologias ágeis.
+Experiência com Cypress, Playwright, Selenium, JavaScript, TypeScript, Python, Postman, entre outros, documentação de bugs e metodologias ágeis.
 
 Busco contribuir para a qualidade dos produtos e proporcionar uma excelente experiência aos usuários.
 
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrosouza25&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrosouza25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ## Contatos
 
@@ -50,11 +45,12 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
   <a href="mailto:lsouzaft@gmail.com"><img src="https://shields.io" alt="Gmail"></a>
 </div>
 
+<br />
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza;Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation" alt="Typing SVG" />
+</div>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza;Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation)]()
-
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
