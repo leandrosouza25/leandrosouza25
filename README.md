@@ -1,4 +1,4 @@
-# Leandro Souza | Quality Assurance Engineer
+# Leandro Souza | Quality Assurance Engineer (QA)
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -24,3 +24,29 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+## Sobre Mim
+
+Quality Assurance, com foco em testes manuais, validação de APIs e automação de testes.
+
+Experiência com Cypress, Playwright, Selenium, Javascript, TypeScript, Python, Postman, entre outros, documentação de bugs e metodologias ágeis.
+
+Busco contribuir para a qualidade dos produtos e proporcionar uma excelente experiência aos usuários.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrosouza25&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight)
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/leandro-souza-qa
+
+)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](lsouzaft@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza;Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation)]()
+
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
