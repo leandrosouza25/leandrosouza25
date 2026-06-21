@@ -39,7 +39,7 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
 
 ## Contatos
 
-* **LinkedIn:** [Clique aqui para acessar meu perfil](https://linkedin.com)
+* **Linkedin:** [www.linkedin.com/in/leandro-souza-qa](https://linkedin.com)
 * **E-mail:** [lsouzaft@gmail.com](mailto:lsouzaft@gmail.com)
 
 
