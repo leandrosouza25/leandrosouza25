@@ -27,6 +27,7 @@
 ![Test Automation](https://shields.io)
 
 
+
 ## Sobre Mim
 
 Quality Assurance, com foco em testes manuais, validação de APIs e automação de testes.
