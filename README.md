@@ -35,11 +35,14 @@
 
 
 
+
 ## Sobre Mim
 
 Sou um profissional de Quality Assurance (QA) focado em garantir a excelência de softwares. Minha atuação une a precisão dos testes manuais à eficiência da automação de testes e validação de APIs. Utilizo metodologias ágeis para integrar qualidade desde o início do ciclo de desenvolvimento, focando sempre na melhor experiência do usuário final.
 
+
 ---
+
 
 ### 🛠️ Habilidades Técnicas
 
@@ -49,13 +52,16 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 * **Metodologias:** Scrum | Kanban
 * **Gestão de Bugs:** Jira | Trello | Azure DevOps
 
+
 ---
+
 
 ### 🧪 Áreas de Especialidade
 
 * **Testes Manuais:** Escrita de casos de teste, testes exploratórios e de regressão.
-* **Automação de Testes:** Criação de scripts robustos para interfaces web e APIs.
+* **Automação de Testes:** Criação de scripts robustos para interfaces web, mobile e APIs.
 * **Documentação:** Relatórios de bugs claros, detalhados e fáceis de reproduzir.
+
 
 
 
@@ -69,9 +75,11 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza(QA);Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
