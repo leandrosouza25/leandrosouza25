@@ -46,7 +46,7 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 ### 🛠️ Habilidades Técnicas
 
-* **Automação:** Cypress | Playwright | Selenium | Apium | Maestro
+* **Automação:** Cypress | Playwright | Selenium | Appium | Maestro
 * **Linguagens:** JavaScript | TypeScript | Java | Python
 * **Testes de API:** Postman | RestAssured
 * **Metodologias:** Scrum | Kanban
