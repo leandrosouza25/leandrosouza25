@@ -91,8 +91,3 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 
 
-
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
