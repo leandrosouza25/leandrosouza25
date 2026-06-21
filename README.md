@@ -24,18 +24,38 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Test Automation](https://shields.io)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+
+
+
 
 
 
 ## Sobre Mim
 
-Quality Assurance, com foco em testes manuais, validação de APIs e automação de testes.
+Sou um profissional de Quality Assurance (QA) focado em garantir a excelência de softwares. Minha atuação une a precisão dos testes manuais à eficiência da automação de testes e validação de APIs. Utilizo metodologias ágeis para integrar qualidade desde o início do ciclo de desenvolvimento, focando sempre na melhor experiência do usuário final.
 
-Experiência com Cypress, Playwright, Selenium, JavaScript, TypeScript, Python, Postman, entre outros, documentação de bugs e metodologias ágeis.
+---
 
-Busco contribuir para a qualidade dos produtos e proporcionar uma excelente experiência aos usuários.
+### 🛠️ Habilidades Técnicas
 
+* **Automação:** Cypress | Playwright | Selenium
+* **Linguagens:** JavaScript | TypeScript | Python
+* **Testes de API:** Postman | RestAssured
+* **Metodologias:** Scrum | Kanban
+* **Gestão de Bugs:** Jira | Trello | Azure DevOps
+
+---
+
+### 🧪 Áreas de Especialidade
+
+* **Testes Manuais:** Escrita de casos de teste, testes exploratórios e de regressão.
+* **Automação de Testes:** Criação de scripts robustos para interfaces web e APIs.
+* **Documentação:** Relatórios de bugs claros, detalhados e fáceis de reproduzir.
 
 
 
