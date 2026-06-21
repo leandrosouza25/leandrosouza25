@@ -38,6 +38,7 @@ Busco contribuir para a qualidade dos produtos e proporcionar uma excelente expe
   <img src="https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+
 ## Contatos
 
 [![LinkedIn](https://shields.io)](https://linkedin.com) [![Gmail](https://shields.io)](mailto:lsouzaft@gmail.com)
