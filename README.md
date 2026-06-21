@@ -81,7 +81,14 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 
 
+
+
+
 ---
+
+
+
+
 
 
 
