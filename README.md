@@ -54,6 +54,7 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 * **Testes de Carga/Desempenho:** K6
 * **CI/CD:** Github Actions 
 
+
 ---
 
 
@@ -78,6 +79,7 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 
 
+---
 
 
 
