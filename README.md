@@ -33,10 +33,7 @@ Experiência com Cypress, Playwright, Selenium, JavaScript, TypeScript, Python, 
 
 Busco contribuir para a qualidade dos produtos e proporcionar uma excelente experiência aos usuários.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrosouza25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=leandrosouza25&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 
 ## Contatos
 
