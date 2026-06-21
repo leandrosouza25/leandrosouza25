@@ -71,10 +71,13 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 
 
 
+
 ## Contatos
 
 * **Linkedin:** [www.linkedin.com/in/leandro-souza-qa](https://linkedin.com)
 * **E-mail:** [lsouzaft@gmail.com](mailto:lsouzaft@gmail.com)
+
+
 
 
 ---
@@ -88,6 +91,7 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Leandro+Souza(QA);Quality+Assurance+Engineer;Manual+Testing;API+Testing;Test+Automation" alt="Typing SVG" />
 </div>
+
 
 
 
