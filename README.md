@@ -24,6 +24,8 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Test Automation](https://shields.io)
+
 
 ## Sobre Mim
 
