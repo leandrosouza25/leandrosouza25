@@ -75,6 +75,7 @@ Sou um profissional de Quality Assurance (QA) focado em garantir a excelência d
 ## Contatos
 
 * **Linkedin:** [www.linkedin.com/in/leandro-souza-qa](https://linkedin.com)
+  
 * **E-mail:** [lsouzaft@gmail.com](mailto:lsouzaft@gmail.com)
 
 
